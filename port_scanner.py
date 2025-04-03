@@ -7,6 +7,7 @@ import json
 import csv
 import time
 from tqdm import tqdm
+#Gargi pagal h
 
 # Usage information
 usage = "Usage: python3 port_scan.py TARGET START_PORT END_PORT [--open | --filtered | --closed | --export <format>]"
